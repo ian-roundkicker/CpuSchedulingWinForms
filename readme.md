@@ -2,6 +2,8 @@
 A grahical user interface application with these components: CPU Simulator, QR code and Barcode Generator.
 This fork adds two new scheduling algorithms: Shortest Remaining Task First and Highest Response Ratio Next
 
+## How to install
+Install Visual Studio, open Visual Studio, click clone a repository, select this repository, then click "clone."
 
 ## Usage
 
