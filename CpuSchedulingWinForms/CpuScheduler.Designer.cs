@@ -628,7 +628,7 @@
         private System.Windows.Forms.Button btnRoundRobin;
         private System.Windows.Forms.ListView listView1;
         private System.Windows.Forms.Timer timer1;
-        private System.Windows.Forms.Button btnSRTF;
+        private System.Windows.Forms.Button btnSRTF; //new buttons listed here
         private System.Windows.Forms.Button btnHRRN;
     }
 }

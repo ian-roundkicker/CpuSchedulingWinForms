@@ -369,7 +369,7 @@ namespace CpuSchedulingWinForms
                 int numberOfProcess = Int16.Parse(txtProcess.Text);
                 if (numberOfProcess <= 10)
                 {
-                    this.progressBar1.Increment(4); //cpu progress bar
+                    this.progressBar1.Increment(4); // cpu progress bar
                     this.progressBar1.SetState(1);
                     this.progressBar2.Increment(13);
                     this.progressBar2.SetState(1);

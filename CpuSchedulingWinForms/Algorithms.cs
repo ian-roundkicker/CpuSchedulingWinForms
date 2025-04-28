@@ -340,7 +340,7 @@ namespace CpuSchedulingWinForms
                 MessageBox.Show("Average turnaround time for " + np + " processes: " + averageTurnaroundTime + " sec(s)", "", MessageBoxButtons.OK);
             }
         }
-        //new stuff below here
+        // new stuff below here
         // ==========================================================
         class Node
         {
